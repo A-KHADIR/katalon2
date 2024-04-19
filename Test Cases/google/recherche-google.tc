@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC3_Visual Testing Example</name>
+   <name>recherche-google</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>cc5f74b3-2793-4455-9f24-945196488d0a</testCaseGuid>
+   <testCaseGuid>b02aa174-91ba-4a08-af8e-81d724dbd39e</testCaseGuid>
 </TestCaseEntity>
